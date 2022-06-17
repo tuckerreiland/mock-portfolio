@@ -1,5 +1,5 @@
 *{
-    background-color: beige;
+    /* background-color: beige; */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 0;
     margin: 0;
@@ -10,7 +10,10 @@ header{
     width: 100%;
     position: fixed;
     top:0;
+    background-color: forestgreen;
+
 }
+
 body{
     background-color: beige;
 }
@@ -45,5 +48,6 @@ form {
 footer {
     text-align: center;
     margin-top: 20px;
+    background-color: forestgreen;
 
 }
